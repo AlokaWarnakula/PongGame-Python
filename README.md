@@ -45,8 +45,8 @@ While much of the logic and structure are inspired by course materials, I’ve t
 3. **Run the game**
    ```bash
    python main.py
-````
-
+```
+```
 4. **Controls**
 
    * **Left Paddle**: `W` (Up), `S` (Down)
@@ -84,6 +84,3 @@ Enjoy the game and feel free to tweak the code and make it your own!
 
 ```
 
----
-
-```
